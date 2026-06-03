@@ -74,6 +74,10 @@ Este projeto foi desenvolvido para praticar:
 - Estruturas de dados
 - Organização de código em Python
 
+## Demonstração
+
+![Sistema de Gestão para Mercearias](screenshot.png)
+
 ## Licença
 
 Projeto desenvolvido para fins de estudo.
