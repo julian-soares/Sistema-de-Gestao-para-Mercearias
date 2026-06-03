@@ -1,5 +1,6 @@
 # Sistema-de-Gestao-para-Mercearias
 Sistema de gerenciamento de mercearia em Python com controle de estoque, vendas, caixa e persistência de dados em JSON.
+# Sistema de Gestão para Mercearias 🛒
 
 Sistema de gerenciamento de mercearia desenvolvido em Python.
 
@@ -32,13 +33,13 @@ Sistema de gerenciamento de mercearia desenvolvido em Python.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/julian-soares/mercasys.git
+git clone https://github.com/julian-soares/Sistema-de-Gestao-para-Mercearias.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd mercasys
+cd Sistema-de-Gestao-para-Mercearias
 ```
 
 Execute:
